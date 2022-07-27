@@ -1,0 +1,1 @@
+Projeto simple de geração de qrcode com a bilbioteca qr-image
